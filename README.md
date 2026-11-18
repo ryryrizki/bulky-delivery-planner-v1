@@ -68,7 +68,7 @@ Each output contains:
 An interactive web prototype is available here:
 
 **Live Prototype:**  
-https://delivery-plan.lalithsai00.workers.dev/
+https://bit.ly/aiclusteringv1 
 
 The prototype demonstrates the planned dispatcher workflow and visualization interface.
 
@@ -104,7 +104,7 @@ The prototype demonstrates the planned dispatcher workflow and visualization int
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bulky-delivery-planner-v1.git
+git clone https://github.com/ryryrizki/bulky-delivery-planner-v1.git
 cd bulky-delivery-planner-v1
 ```
 
