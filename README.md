@@ -68,7 +68,7 @@ Each output contains:
 An interactive web prototype is available here:
 
 **Live Prototype:**  
-https://bit.ly/aiclusteringv1 
+https://delivery-plan.lalithsai00.workers.dev/ 
 
 The prototype demonstrates the planned dispatcher workflow and visualization interface.
 
