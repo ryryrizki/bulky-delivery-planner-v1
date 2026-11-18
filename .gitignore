@@ -1,0 +1,52 @@
+# Company / private data
+data/
+*.xlsx
+*.xls
+*.csv
+
+# Experiment outputs / models
+cluster/results/
+*.npz
+*.pt
+*.pth
+*.pkl
+
+# Competition reports / presentations
+competition/build/
+competition/report.md
+competition/report_ko.md
+competition/build.py
+competition/make_deck.js
+competition/apply_theme.js
+competition/template.html
+competition/deck_refs.json
+competition/numbers.json
+competition/package.json
+competition/icons.mjs
+competition/example_plan.md
+
+*.pptx
+*.docx
+*.pdf
+
+# Benchmark materials
+competition/benchmark/
+competition/benchmark.py
+competition/ortools_baseline.py
+
+# Figures / report assets
+competition/figs/
+competition/fonts/
+competition/webfigs/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
